@@ -32,7 +32,7 @@ env\scripts\activate
 5. Install the dependencies:
 
 ```bash
-pip install Flask requests
+pip install requirements.txt
 ```
 
 Run the Flask application:
