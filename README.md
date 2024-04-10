@@ -20,8 +20,16 @@ git clone https://github.com/murarijha499/SKYCAST.git
 ```bash
 cd weatherwise
 ```
+3. Create and activate virual environment:
 
-3. Install the dependencies:
+```bash
+py -m venv env
+```
+```bash
+env\scripts\activate
+```
+
+5. Install the dependencies:
 
 ```bash
 pip install Flask requests
