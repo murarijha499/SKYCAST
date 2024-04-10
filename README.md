@@ -18,7 +18,7 @@ git clone https://github.com/murarijha499/SKYCAST.git
 2. Navigate to the project directory:
 
 ```bash
-cd weatherwise
+cd skycast
 ```
 3. Create and activate virual environment:
 
