@@ -13,7 +13,7 @@ Skycast is a simple web application built with Flask that allows users to check 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/weatherwise.git
+git clone https://github.com/murarijha499/SKYCAST.git
 ```
 2. Navigate to the project directory:
 
